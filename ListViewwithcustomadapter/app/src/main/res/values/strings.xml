@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">List View with custom adapter</string>
+    <string name="Top_movie">Top 10 Movies</string>
+
+    <string-array name="movie_name">
+        <item>Lucy</item>
+        <item>The Predators</item>
+        <item>Now You See Me</item>
+        <item>Despicable Me</item>
+        <item>Hitman Agent 47</item>
+        <item>Big Hero 6</item>
+        <item>Fifty Shades Of Grey</item>
+        <item>Fifty Shades of Darker</item>
+        <item>Frozen</item>
+        <item>Mirror Mirror</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>9/10</item>
+        <item>7.8/10</item>
+        <item>7.5/10</item>
+        <item>7.3/10</item>
+        <item>7.0/10</item>
+        <item>6.5/10</item>
+        <item>6.5/10</item>
+        <item>6.4/10</item>
+        <item>6.0/10</item>
+        <item>5.5/10</item>
+    </string-array>
+</resources>

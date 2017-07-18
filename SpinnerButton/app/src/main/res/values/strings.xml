@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spinner Button</string>
+    <string name="header"> Select Country </string>
+
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Afganisthan</item>
+        <item>Brazil</item>
+    </string-array>
+
+</resources>

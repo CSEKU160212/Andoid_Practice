@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Radio Button</string>
+    <string name="ku">KU</string>
+    <string name="du">DU</string>
+    <string name="ju">JU</string>
+    <string name="ru">RU</string>
+    <string name="bau">BAU</string>
+    <string name="kuet">KUET</string>
+    <string name="ruet">RUET</string>
+    <string name="cuet">CUET</string>
+    <string name="buet">BUET</string>
+
+
+
+</resources>

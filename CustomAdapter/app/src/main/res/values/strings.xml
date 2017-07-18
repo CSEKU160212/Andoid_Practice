@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">KU_CSE 16</string>
+    
+    <string-array name="student_name_array">
+        <item>REDOUN ISLAM (ABIR)</item>
+        <item>SHEIKH SOHEL MOON</item>
+        <item>EMAMUL HAQUE MANNA</item>
+        <item>SUMIT KUMAR DAM</item>
+        <item>MD. RAKIBUL HASAN MOLLA</item>
+        <item>TAUSIF AHMED TURZO</item>
+        <item>MD. ARIFUR RAHMAN</item>
+        <item>SAMIHA AHMED</item>
+        <item>MISS ROKEYA AKTER</item>
+        <item>AVI DEB RAHA</item>
+        <item>MD. ABDUL LOTIF</item>
+        <item>FATIMATUJ JHORA</item>
+        <item>ARJUMAN SREASHTHO</item>
+        <item>A.K.M FAHIM RAHMAN</item>
+        <item>MD. ASWAD ALAM</item>
+        <item> MESBAH UR RAHMAN</item>
+        <item>MD. HADIUZZAMAN BAPPY</item>
+        <item>MOSTOFA RAKIB RAYHAN</item>
+        <item>ANTOR ALI</item>
+        <item>ANAM ISLAM</item>
+        <item>MRITYUNJOY GAIN</item>
+        <item>S.M. MEHADI HASAN</item>
+        <item>MOUSHAN NAZNIN</item>
+        <item>SAIMUM ISLAM</item>
+        <item>FERDOUSI HAQUE</item>
+        <item>RYHAN AHMED TAMIM</item>
+        <item>NAEEMA BINTE ASHRAF</item>
+        <item>SWAGATO DAS</item>
+        <item>MD. LUTFUL HASAN</item>
+        <item>MAHFUJUR RAHMAN AFNAN</item>
+        <item>UTTAM PAUL</item>
+        <item>MAAIN MOHD. HAQUE</item>
+        <item>MD. TANVIR HOSSAIN HEMEL</item>
+        <item>ISRAT JAHAN JOYA</item>
+        <item>S.M. MUHAIMINUL ISLAM</item>
+    </string-array>
+
+
+    <string-array name="student_id_array">
+        <item>160201</item>
+        <item>160202</item>
+        <item>160204</item>
+        <item>160205</item>
+        <item>160206</item>
+        <item>160207</item>
+        <item>160208</item>
+        <item>160209</item>
+        <item>160210</item>
+        <item>160211</item>
+        <item>160212</item>
+        <item>160213</item>
+        <item>160214</item>
+        <item>160215</item>
+        <item>160216</item>
+        <item>160218</item>
+        <item>160219</item>
+        <item>160220</item>
+        <item>160221</item>
+        <item>160222</item>
+        <item>160224</item>
+        <item>160225</item>
+        <item>160226</item>
+        <item>160227</item>
+        <item>160228</item>
+        <item>160230</item>
+        <item>160231</item>
+        <item>160232</item>
+        <item>160234</item>
+        <item>160235</item>
+        <item>160236</item>
+        <item>160237</item>
+        <item>160238</item>
+        <item>160239</item>
+        <item>160240</item>
+    </string-array>
+    
+</resources>

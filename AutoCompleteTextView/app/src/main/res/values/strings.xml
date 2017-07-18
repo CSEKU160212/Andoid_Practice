@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Auto Complete Text view</string>
+
+    <string-array name="university_name">
+
+        <item>Khulna University</item>
+        <item>Khulna University Of Engineering and Technology</item>
+        <item>Dhaka University</item>
+        <item>Barishal University</item>
+        <item>Rajshahi University</item>
+        <item>Dhaka University of Engineering and Technology </item>
+        <item>Chittagonj University of Engineering and Technology </item>
+        <item>Rajshahi University of Engineering and Technology </item>
+        <item>Shah Jalal University of Science and Technology </item>
+        <item>Ahsanullah University of Science and Technology </item>
+
+    </string-array>
+
+</resources>

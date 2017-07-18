@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="280dp"
+    android:background="#000000"
+    >
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="180dp"
+        android:background="@drawable/id160212"
+        android:id="@+id/student_image"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <TextView
+        android:layout_width="125dp"
+        android:layout_height="75dp"
+        android:text="Student ID"
+        android:layout_below="@+id/student_image"
+        android:id="@+id/student_id"
+        android:gravity="center"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="75dp"
+        android:text="Student Name"
+        android:layout_below="@+id/student_image"
+        android:layout_toRightOf="@+id/student_id"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:background="#000000"
+        android:textColor="#FFFFFF"
+        android:id="@+id/student_name"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#FFFFFF"
+        android:id="@+id/view"
+        android:layout_below="@+id/student_id">
+
+    </View>
+
+
+</RelativeLayout>
